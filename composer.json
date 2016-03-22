@@ -1,6 +1,6 @@
 {
     "name": "jelovac/bitly4laravel",
-    "description": "Provides a Laravel package to communicate with Bit.ly API",
+    "description": "Provides a Laravel package to communicate with Bit.ly API ",
     "license": "MIT",
     "require": {
         "php": ">=5.5",
